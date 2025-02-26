@@ -20,7 +20,7 @@ Algunos aspectos interesantes sobre mí:
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C13
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C13)
 
 
 ## 📈 Estadísticas de GitHub
