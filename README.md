@@ -26,6 +26,12 @@ Algunos aspectos interesantes sobre mí:
 ## 📈 Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrafnyr&show_icons=true&theme=radical)
 
+## 🗂️ Lenguajes más utilizados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrafnyr&layout=compact&theme=radical)
+
+## 📅 Actividad reciente
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrafnyr&theme=radical)
+
 ---
 🛠️ Creando, probando y mejorando constantemente.
 
