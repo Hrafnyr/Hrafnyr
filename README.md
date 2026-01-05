@@ -27,8 +27,8 @@ Algunos aspectos interesantes sobre mí:
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
 
-## 📈 Logros destacados en GitHub
-![Trophy](https://github-profile-trophy.vercel.app/?username=hrafnyr&theme=darkhub)
+## 📊 Estadísticas del Perfil
+![Resumen](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrafnyr&theme=radical)
 
 ## 🗂️ Lenguajes más utilizados
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hrafnyr&theme=radical)
