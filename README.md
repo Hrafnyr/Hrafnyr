@@ -21,7 +21,7 @@ Algunos aspectos interesantes sobre mí:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13)
-
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 
 ## 📈 Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrafnyr&show_icons=true&theme=radical)
@@ -33,5 +33,11 @@ Algunos aspectos interesantes sobre mí:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrafnyr&theme=radical)
 
 ---
-🛠️ Creando, probando y mejorando constantemente.
 
+## 🚀 Nuevos Recursos
+
+- ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg)
+- ![Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?style=flat&logo=github-sponsors)
+- ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=hrafnyr&theme=radical)
+
+🛠️ Creando, probando y mejorando constantemente.
