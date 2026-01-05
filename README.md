@@ -1,5 +1,5 @@
 # Moises Maldonado
-Soy estudiante de la Universidad de San Carlos de Guatemala, actualmente me encuentro entre el octavo y noveno semestre de la carrera de Ingeniería en Ciencias y Sistemas.
+Soy estudiante de la Universidad de San Carlos de Guatemala, actualmente me encuentro entre el décimo semestre de la carrera de Ingeniería en Ciencias y Sistemas.
 Algunos aspectos interesantes sobre mí:
 
 - 💻 Desarrollador apasionado en diferentes lenguajes de programación.  
@@ -22,22 +22,27 @@ Algunos aspectos interesantes sobre mí:
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
 
-## 📈 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrafnyr&show_icons=true&theme=radical)
+## 📈 Logros destacados en GitHub
+![Trophy](https://github-profile-trophy.vercel.app/?username=hrafnyr&theme=darkhub)
 
 ## 🗂️ Lenguajes más utilizados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrafnyr&layout=compact&theme=radical)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hrafnyr&theme=radical)
+![Top Langs Details](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hrafnyr&theme=radical)
 
 ## 📅 Actividad reciente
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrafnyr&theme=radical)
 
 ---
 
-## 🚀 Nuevos Recursos
+## Otros recursos
 
 - ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg)
-- ![Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?style=flat&logo=github-sponsors)
-- ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=hrafnyr&theme=radical)
+
+
 
 🛠️ Creando, probando y mejorando constantemente.
