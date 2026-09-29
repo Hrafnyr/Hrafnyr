@@ -1,5 +1,5 @@
 # Moises Maldonado
-Soy estudiante de la Universidad de San Carlos de Guatemala, actualmente me encuentro entre el décimo semestre de la carrera de Ingeniería en Ciencias y Sistemas.
+Soy estudiante de la Universidad de San Carlos de Guatemala, actualmente cierre de pénsum de la carrera de Ingeniería en Ciencias y Sistemas.
 Algunos aspectos interesantes sobre mí:
 
 - 💻 Desarrollador apasionado en diferentes lenguajes de programación.  
